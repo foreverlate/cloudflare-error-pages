@@ -8,3 +8,4 @@ This repository contains [Cloudflare custom error pages](https://support.cloudfl
 | Country Challenge | Challenge page presented to visitors from blocked countries. | https://foreverlate.github.io/cloudflare-error-pages/country_challenge.html |
 | WAF Block | Presented to visitors when they trigger a Web Application Firewall rule. | https://foreverlate.github.io/cloudflare-error-pages/waf_block.html |
 | WAF Challenge | Presented to visitors when they trigger a Web Application Firewall rule. | https://foreverlate.github.io/cloudflare-error-pages/waf_challenge.html |
+| artsy cloudflare error | Presented to visitors when they trigger a Web Application Firewall rule. | https://foreverlate.github.io/cloudflare-error-pages/artsy-error-1000.html|
